@@ -17,3 +17,11 @@ Este é um sistema simples e funcional de **Gerenciamento Eleitoral**, desenvolv
   - Listar candidatos cadastrados.
   - Editar dados de um candidato.
   - Excluir registro de candidato.
+
+- **GRUPO**
+
+- Rafael Oliveira Fava - Scrum Master
+- Arthur Massarão Marcomini - Product Owner
+- Gustavo Mello Galdino - Desenvolvedor
+- Gabriel Gomes de Sousa
+- Natália Cristina
