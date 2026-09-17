@@ -23,5 +23,5 @@ Este é um sistema simples e funcional de **Gerenciamento Eleitoral**, desenvolv
 - Rafael Oliveira Fava - Scrum Master
 - Arthur Massarão Marcomini - Product Owner
 - Gustavo Mello Galdino - Desenvolvedor
-- Gabriel Gomes de Sousa
-- Natália Cristina
+- Gabriel Gomes de Sousa - Desenvolvedor
+- Natália Cristina - Desenvolvedor
